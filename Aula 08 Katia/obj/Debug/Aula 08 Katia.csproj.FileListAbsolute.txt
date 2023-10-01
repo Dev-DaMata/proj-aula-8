@@ -1,0 +1,11 @@
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\bin\Debug\Aula 08 Katia.exe.config
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\bin\Debug\Aula 08 Katia.exe
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\bin\Debug\Aula 08 Katia.pdb
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.csproj.AssemblyReference.cache
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula_08_Katia.Form1.resources
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula_08_Katia.Properties.Resources.resources
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.csproj.GenerateResource.cache
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.exe
+C:\Users\Giovanni Cabral\source\repos\Aula 08 Katia\Aula 08 Katia\obj\Debug\Aula 08 Katia.pdb
